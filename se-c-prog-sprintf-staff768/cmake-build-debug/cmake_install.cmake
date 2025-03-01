@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user/se-c-prog-sprintf-staff768
+# Install script for directory: C:/Users/user/Fisrt-Semestr-C/se-c-prog-sprintf-staff768
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/user/se-c-prog-sprintf-staff768/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/user/Fisrt-Semestr-C/se-c-prog-sprintf-staff768/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
