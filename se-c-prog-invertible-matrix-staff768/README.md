@@ -1,3 +1,3 @@
 # Лабораторная работа №1. Обратная матрица
-
-Текущий статус тестирования GitHub Actions: [![CI/CD](../../actions/workflows/classroom.yml/badge.svg?branch=main&event=workflow_dispatch)](../../actions/workflows/classroom.yml).
+В данной работе реализован алгоритм нахождения обратной матрицы.
+В входном файле должна находиться исходная матрица, в выходном соотвественно обратная.
