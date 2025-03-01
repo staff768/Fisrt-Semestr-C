@@ -1,3 +1,6 @@
 # Лабораторная работа №2. sprintf
+В данной лаборатороной работе реализован свой форматированый вывод.
+Для того что бы использовать в командную cтроку подается в argv[1] - формат(Н: "%o")
+В argv[2] подается число - "351";
 
-Текущий статус тестирования GitHub Actions: [![CI/CD](../../actions/workflows/classroom.yml/badge.svg?branch=main&event=workflow_dispatch)](../../actions/workflows/classroom.yml).
+ 
